@@ -24,7 +24,7 @@ GitHub Pagesでホストされる。
 
 ### デプロイ方法
 
-master push を triggerに [deploy workflow](https://github.com/jurliyuuri/cerke_online_alpha/blob/master/.github/workflows/deploy.yml)が走り、github_pagesブランチが更新される。、 GitHub Pages機能でにデプロイされる。
+master push を triggerに [deploy workflow](https://github.com/jurliyuuri/cerke_online_alpha/blob/master/.github/workflows/deploy.yml) が走り、github_pagesブランチが更新される。、 GitHub Pages機能でにデプロイされる。
 
 TODO: 当該repositoryのdocsに書く
 
