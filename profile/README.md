@@ -19,4 +19,4 @@ GitHub Pages が付随していたりして簡単には移動できないやつ
 
 ## 開発者向け情報
 
-[開発者向け情報](docs/developers/v1/index.md)
+[開発者向け情報](developers/index.md)
