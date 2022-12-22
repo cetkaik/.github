@@ -1,6 +1,10 @@
 # cetkaik
 架空伝統ゲーム「机戦」にまつわるコードの集積所
 
+- 机戦についての説明は[こちら](https://sites.google.com/view/cet2kaik)
+- 机戦は[こちら](http://jurliyuuri.com/cerke_online_alpha/entrance.html)からオンラインで遊べます。
+
+
 ## この organization 以外に置いてあるやつ
 
 GitHub Pages が付随していたりして簡単には移動できないやつ
@@ -12,3 +16,7 @@ GitHub Pages が付随していたりして簡単には移動できないやつ
  - [sozysozbot/cerke_online_alpha_staging](https://github.com/sozysozbot/cerke_online_alpha_staging)
  - [meloviliju/cerke](https://github.com/meloviliju/cerke)
  - [meloviliju/cerke_noter](https://github.com/meloviliju/cerke_noter)
+
+## 開発者向け情報
+
+[開発者向け情報](developers/index.md)
