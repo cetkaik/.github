@@ -14,6 +14,9 @@
 - [cetkaik_platform](https://sozysozbot.github.io/cetkaik_platform/show_history.html?history=%7B%E4%B8%80%E4%BD%8D%E8%89%B2%3A%E9%BB%92%7D%0A%7B%E5%A7%8B%E6%99%82%3A2022-09-08T07%3A19%3A07.162Z%7D%0A%7B%E7%B5%82%E6%99%82%3A2022-09-08T07%3A20%3A13.412Z%7D%0AMAU%E5%BC%93MAIMY%E6%A9%8B%E4%B8%80%09ME%E5%BC%93MIMU%E6%A9%8B%E4%BA%94%0AZO%E7%9A%87%5BZY%5DZAIZAU%09MU%E5%BC%93MYZY%E6%A9%8B%E4%B8%80%E6%AD%A4%E7%84%A1%0AZAI%E8%88%B9ZIZA%E6%A9%8B%E4%B8%89%E6%89%8B%E8%B5%A4%E7%8E%8B%0A%0A%E6%88%96%E7%82%BA%E7%8E%8B%0A%E5%86%8D%E8%A1%8C%0A%0ATE%E8%99%8EZA%E7%84%A1%E6%92%83%E8%A3%81%E6%89%8B%E9%BB%92%E8%88%B9%09MY%E5%BC%93MU%E7%84%A1%E6%92%83%E8%A3%81%E6%89%8B%E9%BB%92%E5%BC%93%0AZAU%E7%9A%87XAU%5BZAI%5DTY%09MU%E5%BC%93MI%E7%84%A1%E6%92%83%E8%A3%81%E6%89%8B%E8%B5%A4%E5%85%B5%0A%0A%E6%88%96%E7%82%BA%E9%A6%AC%E5%BC%93%E5%85%B5%E5%8A%A0%E7%8E%8B%0A%E5%86%8D%E8%A1%8C%0A%0AZI%E8%88%B9ZIA%E7%84%A1%E6%92%83%E8%A3%81%E6%89%8B%E9%BB%92%E7%8E%8B%0A%0A%E6%88%96%E7%82%BA%E7%8E%8B%E8%80%8C%E6%89%8B%E4%BA%8C%E5%8D%81%0A%E7%B5%82%E5%AD%A3%09%E6%98%A5%E7%B5%82%0A%0A%0A%E6%98%9F%E4%B8%80%E5%91%A8)
   - 棋譜を表示するためのアプリ
 
+- cetkaik_board_svg_generator
+- cerke_calculate_hands
+
 ## frontend
 
 ### 概要
@@ -71,3 +74,21 @@ fly.io 上にマスターコードがあり、適宜以下のリモートリポ�
 | リポジトリ | URL |
 | --- | --- |
 | https://github.com/sozysozbot/cetkaik_platform | https://sozysozbot.github.io/cetkaik_platform/ |
+
+
+## cetkaik_board_svg_generator
+
+盤面のsvg画像を作るやつ
+
+ghpages
+
+| リポジトリ | URL |
+| --- | --- |
+| https://github.com/sozysozbot/cetkaik_board_svg_generator| https://sozysozbot.github.io/cetkaik_board_svg_generator/index.html |
+
+## cerke_calculate_hands
+
+ghpages 
+| リポジトリ | URL |
+| --- | --- |
+| https://github.com/sozysozbot/cerke_calculate_hands | https://sozysozbot.github.io/cerke_calculate_hands/calculate_hand_contest.html |
