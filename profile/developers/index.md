@@ -12,7 +12,12 @@ cetkaik のアプリについての開発者向け情報を蓄積するための
 
 個別の repository に属さない cetkaik アプリ全体の TODO や issue、ロードマップは様々な場所で相談されていますが、大体を [hsjoihs](https://github.com/sozysozbot) が一人で書く体制で何年もやってきたせいで、あんまり上手く管理されていません
 
-オープンで公開されているものとしては、cetkaik に限らないリポジトリだと[AIL-MO-LETI-CEP/issues](https://github.com/AIL-MO-LETI-CEP/issues/issues) に一応置いてありますが、[cerke_online_alpha/issues](https://github.com/jurliyuuri/cerke_online_alpha/issues) に委任して管理している部分が多いかなぁ。
+オープンで公開されているものとしては、cetkaik に限らないリポジトリだと[AIL-MO-LETI-CEP/issues](https://github.com/AIL-MO-LETI-CEP/issues/issues) に一応置いてありますが、[cerke_online_alpha/issues](https://github.com/jurliyuuri/cerke_online_alpha/issues) に委任して管理している部分が多いかなぁ。一応 [cetkaik_programming_issues/issues](https://github.com/cetkaik/cetkaik_programming_issues/issues) ってのも用意しておいたので、
+
+- 「cerke_online およびそれをサポートするための TypeScript コード資産」に関しては [cerke_online_alpha/issues](https://github.com/jurliyuuri/cerke_online_alpha/issues)
+- それ以外に関しては  [cetkaik_programming_issues/issues](https://github.com/cetkaik/cetkaik_programming_issues/issues) 
+
+としてもらうといいのかなぁ。
 
 # 備考
 
