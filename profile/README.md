@@ -15,6 +15,7 @@ GitHub Pages が付随していたりして簡単には移動できないやつ
  - [sozysozbot/cerke_calculate_hands](https://github.com/sozysozbot/cerke_calculate_hands)
  - [meloviliju/cerke](https://github.com/meloviliju/cerke)
  - [meloviliju/cerke_noter](https://github.com/meloviliju/cerke_noter)
+ - [jurliyuuri/cerke_online_alpha](https://github.com/jurliyuuri/cerke_online_alpha)
 
 ## 開発者向け情報
 
